@@ -1,0 +1,13 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      "introduction",
+      ["Design Token Showcases", ["tailwind-showcases", "css-showcases"]],
+      ["Components", ["do-dont", "note", "columns"]],
+      ["Layout", ["layout", "speedy-links", "search"]],
+      ["Atoms", ["box", "clipboard", "text", "showcases", "space"]],
+      ["Infra", ["doc-layout"]]
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "allowJs": true,
+    "allowNonTsExtensions": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "reactNamespace": "React",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "useDefineForClassFields": false,
+    "allowSyntheticDefaultImports": true,
+    "strictNullChecks": true,
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["*"],
+      "@divriots/dockit-core/*": ["*"]
+    }
+  }
+}
